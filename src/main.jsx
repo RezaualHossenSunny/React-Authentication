@@ -16,7 +16,7 @@ const router = createBrowserRouter([
     element: <App/>,
   },
   {
-    path: "/singin",
+    path: "/login",
     element: <Singin/>,
   },
   {
